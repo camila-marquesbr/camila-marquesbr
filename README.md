@@ -8,7 +8,7 @@ No meu tempo livre amo de jogar videogames (:video_game:) e jogos de tabuleiro c
 
 
 Minhas redes de contato:
-- [portfolio](https://camiladevbr.wixsite.com/portfolio)
+- [Portfolio](https://camiladevbr.wixsite.com/portfolio)
 - [facebook] (https://www.facebook.com/camila.marques07/)
 - [linkedin] (https://www.linkedin.com/in/camila-marquesbr/)
 - [email] (camiladev.br@gmail.com)
