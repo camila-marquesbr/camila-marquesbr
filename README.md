@@ -4,7 +4,7 @@
 
 |      Determinada e organizada
 
-No meu tempo livre amo jogar videogames (:video_game:) e jogos de tabuleiro com os meus amigos, principalmente RPG (:game_die:), gosto de ver filmes, séries (:tv:), ler livros (:books:), ir à praia :ocean: e fazer trilhas :leaves:.
+No meu tempo livre amo jogar videogames (:video_game:) e jogos de tabuleiro com os meus amigos, principalmente RPG (:game_die:), gosto de ver filmes, séries (:tv:), ler livros (:books:), ir à praia (:ocean:) e fazer trilhas (:leaves:).
 
 
 Minhas redes de contato:
