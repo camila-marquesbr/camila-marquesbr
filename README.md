@@ -1,6 +1,6 @@
 ### Olá, tudo bem? :octocat:
 
-✨Meu nome é Camila, tenho 24 anos. Sou formada em técnico em Comunicação Visual pelo NAVE - Oi Futuro. Sou estudande de Ciência da Computação na Anhembi Morumbi, e da turma de back-end da {Reprograma}. 
+✨Meu nome é Camila, tenho 25 anos. Sou formada em técnico em Comunicação Visual pelo NAVE - Oi Futuro e em programação back-end pela {Reprograma}. Também sou estudande de Ciência da Computação na Anhembi Morumbi.
 Atuei por alguns anos na área financeira e contábil, no entanto estou em transição de carreira para a área de desenvolvimento de sistemas. Venho estudando com afinco HTML, CSS, Javascript, Node.JS, Bootstrap, React além de outras tecnologias. ✨ 
 
 |      Determinada e organizada
