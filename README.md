@@ -6,10 +6,3 @@ Atuei por alguns anos na área financeira e contábil, no entanto estou em trans
 |      Determinada e organizada
 
 No meu tempo livre amo jogar videogames (:video_game:) e jogos de tabuleiro com os meus amigos, principalmente RPG (:game_die:), gosto de ver filmes, séries (:tv:), ler livros (:books:), ir à praia (:ocean:) e fazer trilhas (:leaves:).
-
-
-Minhas redes de contato:
-- [Portfolio](https://camiladevbr.wixsite.com/portfolio)
-- [facebook] (https://www.facebook.com/camila.marques07/)
-- [linkedin] (https://www.linkedin.com/in/camila-marquesbr/)
-- [email] (camiladev.br@gmail.com)
